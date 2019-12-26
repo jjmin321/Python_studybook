@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4eab5b01-d341-4d0a-9ea3-c3d061979b65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data_example.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$Data_example.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/데이터처리프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/데이터처리프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$제정민-데이터처리프로그램.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/제정민-데이터처리프로그램.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/제정민-데이터처리프로그램.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.데이터처리프로그램">
+  <component name="RunManager" selected="Python.GO와 코드비교">
     <configuration name="클래스 실습과제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,27 +127,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="데이터처리프로그램" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Lab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/데이터처리프로그램.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="GO와 코드비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,9 +169,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="데이터처리프로그램" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/데이터처리프로그램.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.데이터처리프로그램" />
         <item itemvalue="Python.그래프로성적처리" />
         <item itemvalue="Python.GO와 코드비교" />
         <item itemvalue="Python.클래스 실습과제" />
@@ -233,30 +232,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="444" y="303" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.877@0.23.1440.877" timestamp="1576893951411" />
-    <state width="1419" height="227" key="GridCell.Tab.0.bottom" timestamp="1577351185258">
+    <state width="1419" height="227" key="GridCell.Tab.0.bottom" timestamp="1577351632059">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="227" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577351185258" />
-    <state width="1419" height="227" key="GridCell.Tab.0.center" timestamp="1577351185257">
+    <state width="1419" height="227" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577351632059" />
+    <state width="1419" height="227" key="GridCell.Tab.0.center" timestamp="1577351632058">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="227" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577351185257" />
-    <state width="1419" height="227" key="GridCell.Tab.0.left" timestamp="1577351185257">
+    <state width="1419" height="227" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577351632058" />
+    <state width="1419" height="227" key="GridCell.Tab.0.left" timestamp="1577351632057">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="227" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577351185257" />
-    <state width="1419" height="227" key="GridCell.Tab.0.right" timestamp="1577351185258">
+    <state width="1419" height="227" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577351632057" />
+    <state width="1419" height="227" key="GridCell.Tab.0.right" timestamp="1577351632058">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="227" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577351185258" />
+    <state width="1419" height="227" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577351632058" />
     <state x="229" y="96" key="SettingsEditor" timestamp="1576894087064">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="96" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576894087064" />
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1577347924628">
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1577351934065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1577347924628" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1577351934065" />
     <state x="509" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577327588092">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
