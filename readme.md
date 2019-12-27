@@ -42,8 +42,30 @@ BERT 와 같은 공개된 우수한 pre-training 모델을 사용하여 정확�
 
 7. kaggle등 국내외 다양한 데이터 과학 경진대회에 참여하여 경험을 쌓는다
 
+# 📚 Python_추천 교재 📚
 
-# 👨‍💻 파이썬 기초 최종 실습 프로젝트 
+* 📖 파이썬 데이터분석 및 웹스크레이핑관련서적(기본수준,내용은 평이함)
+데이터 분석을 위한 파이썬 철저 입문 📖
+최은석 저 | 위키북스 
+https://wikibook.co.kr/python-for-data-analysis-rev/
+
+* 📖 파이썬 머신러닝 관련서적(필독서!!,내용 매우 좋음!!)
+파이썬 머신러닝 완벽 가이드 📖
+(다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는)
+권철민 저 | 위키북스 
+https://wikibook.co.kr/ml-definitive-guide/
+
+* 📖 딥러닝(신경망) 개념과 원리를 다룬 책(권장서적,머신러닝 외부라이브러리를 사용하지 않고 파이썬으로 직접구현함)
+밑바닥부터 시작하는 딥러닝 📖
+번역 :개앞맵시(이복연) | 한빛미디어
+http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198
+
+* 📖 텐서플로 기본 이해(텐서플로 1.x 버전 사용, 2.0 아님, 264페이지)
+골빈해커의 3분 딥러닝(텐서플로맛) 📖
+김진중 저 | 한빛미디어
+http://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308
+
+# 👨‍💻 Python_기초 최종 실습 프로젝트 👨‍💻 
 
 <p><img width="1440" alt="Screen Shot 2019-12-26 at 18 16 43" src="https://user-images.githubusercontent.com/52072077/71469267-fea1f680-280b-11ea-82d2-e931239a52de.png"></p>
 
